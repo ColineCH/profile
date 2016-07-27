@@ -1,6 +1,8 @@
 /*  fonts & colors */
 body {
-  background-color: #f2f6c3;
+  background-image: url(images/background_pasteques.jpg);
+  background-size: cover;
+  height: 100vh;
   font-family: 'Open Sans', sans-serif;
   color: #7D7D7D;
   font-size: 18px;
@@ -29,7 +31,7 @@ h3 {
 }
 
 a {
-  color: #CCCCCC;
+  color: #3bd6c6;
   text-decoration: none;
   font-size: 15px;
 }
@@ -53,7 +55,7 @@ p {
   background: white;
   padding: 30px;
   border-radius: 4px;
-  box-shadow: 4px 4px 6px #b3ecec;
+  border: 4px solid #b3ecec;
   margin: 20px auto;
 }
 
